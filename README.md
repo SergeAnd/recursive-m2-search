@@ -1,2 +1,2 @@
 # recursive-m2-search
-Create list dirictories of maven repository.
+Create a list of directories of the maven repository.
